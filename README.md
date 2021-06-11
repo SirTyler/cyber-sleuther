@@ -28,3 +28,4 @@ It will then list out all save files found, select the one you would like to vie
 ## Acknoledgements
 1. [SydMontague](https://github.com/SydMontague) for creating [DSCSTools](https://github.com/SydMontague/DSCSTools) and producing the Python API for it.
 2. [SydMontague](https://github.com/SydMontague), [Pherakki](https://github.com/Pherakki), [Green Mii](https://gbatemp.net/members/green-mii.364451/), and [AnalogMan151](https://github.com/AnalogMan151) whose information and code I studied and reused for this project.
+3. [AngelofHope](https://withthewill.net/members/angelofhope.1510/) for a [collection](https://withthewill.net/threads/digimon-sprite-animation-thread-read-first-post-fully-working.10472/) of great Digimon Animated Sprites used as icons in this project
